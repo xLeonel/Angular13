@@ -2,7 +2,6 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "cei-shared": "apps/cei-shared",
-    "cei-shared-e2e": "apps/cei-shared-e2e"
+    "cei-shared": "libs/cei-shared"
   }
 }
